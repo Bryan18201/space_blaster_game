@@ -1,7 +1,7 @@
 # Space-Blaster-Game
 Juego de naves con el objetivo de sobrevivir y conseguir la mayora cantidad de puntos.
 
-Proyecto creado con:
+# Proyecto creado con:
 
 Ivana Margarita Calderón Pache 
 
@@ -17,20 +17,20 @@ Bryan José Mañón Colon
 
 Roshby Ramsés Hernández 
 
-#Imagenes
+# Imagenes
 
-Menu principal
+# Menu principal
 ![image](https://i.imgur.com/0XdfDK1.png)
 
-Menu de opciones
+# Menu de opciones
 ![image](https://i.imgur.com/6qiYo1d.png)
 
-Menu de niveles
+# Menu de niveles
 ![image](https://i.imgur.com/c0gnGo2.png)
 
-Juego corriendo 
+# Juego corriendo 
 ![image](https://i.imgur.com/2DfDKq2.png)
 
-Video del proyecto en uso
+# Video del proyecto en uso
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0vi9ZEi29aE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0vi9ZEi29aE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
