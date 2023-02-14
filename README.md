@@ -32,6 +32,6 @@ Roshby Ramsés Hernández
 ![image](https://i.imgur.com/2DfDKq2.png)
 
 # Video del proyecto en uso
-[![Alt text](https://i.imgur.com/jCzCtR0.png)](https://www.youtube.com/watch?v=configuroweb)
+[![Alt text](https://i.imgur.com/jCzCtR0.png)](https://www.youtube.com/watch?v=0vi9ZEi29aE)
 
 
