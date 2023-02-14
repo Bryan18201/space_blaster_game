@@ -4,15 +4,23 @@ Juego de naves con el objetivo de sobrevivir y conseguir la mayora cantidad de p
 Proyecto creado con:
 
 Ivana Margarita Calderón Pache 
+
+
 Luis Felipe Soto Montero 
+
+
 Fergie Raquel Castro Saldaña 
+
+
 Bryan José Mañón Colon 
+
+
 Roshby Ramsés Hernández 
 
 #Imagenes
 
 Menu principal
-![image]((https://i.imgur.com/0XdfDK1.png)
+![image](https://i.imgur.com/0XdfDK1.png)
 
 Menu de opciones
 ![image](https://i.imgur.com/6qiYo1d.png)
