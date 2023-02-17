@@ -1,5 +1,11 @@
 # Space-Blaster-Game
-Juego de naves con el objetivo de sobrevivir y conseguir la mayora cantidad de puntos.
+Juego de naves con el objetivo de sobrevivir y conseguir la mayor cantidad de puntos.
+
+# Tecnologías Utilizadas:
+
+-C#
+
+-Unity
 
 # Proyecto creado con:
 
@@ -17,15 +23,15 @@ Bryan José Mañón Colon
 
 Roshby Ramsés Hernández 
 
-# Imagenes
+# Imágenes
 
-# Menu principal
+# Menú principal
 ![image](https://i.imgur.com/0XdfDK1.png)
 
-# Menu de opciones
+# Menú de opciones
 ![image](https://i.imgur.com/6qiYo1d.png)
 
-# Menu de niveles
+# Menú de níveles
 ![image](https://i.imgur.com/c0gnGo2.png)
 
 # Juego corriendo 
